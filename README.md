@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlbishriAbdullah
+- 👋 Hi, I’m Abdullah Albishri
 - 👀 I’m interested in Artificial intelligence and Programming.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m currently studying Computer science in 4th year.
 
 
 <!---
