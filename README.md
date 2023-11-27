@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Albishri
-- 👀 I’m interested in Artificial intelligence and Programming.
-- 🌱 I’m currently studying Computer science in 4th year.
+- 👀 I’m interested in artificial intelligence and programming.
+- 🌱 I’m currently studying Computer Science in my 4th year.
 
 
 <!---
