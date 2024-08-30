@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Abdullah Albishri
-- 👀 I’m interested in artificial intelligence and programming.
-- 🌱 I’m currently studying Computer Science in my 4th year.
+👋 Hi there! I’m Abdullah Albishri.
 
+🚀 Enthusiastically diving into the worlds of Artificial Intelligence, Machine Learning, and Robotics.
+
+🎓 Final-year Computer Science student with a deep passion for AI, machine learning, web development, and Robotics.
 
 <!---
 AlbishriAbdullah/AlbishriAbdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
