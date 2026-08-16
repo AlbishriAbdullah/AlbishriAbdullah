@@ -1,10 +1,30 @@
-👋 Hi there! I’m Abdullah Albishri.
+# Abdullah Albishri
 
-🚀 Enthusiastically diving into the worlds of Artificial Intelligence, Machine Learning, and Robotics.
+IT Administrator and Computer Science graduate with hands-on experience in IT infrastructure, systems administration, networking, and technical support.
 
-🎓 Final-year Computer Science student with a deep passion for AI, machine learning, web development, and Robotics.
+Currently working with Windows environments, Microsoft 365, Windows Server, Fortinet, network infrastructure, hardware, and end-user support.
 
-<!---
-AlbishriAbdullah/AlbishriAbdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Areas of Experience
+
+* IT Infrastructure and Administration
+* Windows and Windows Server
+* Microsoft 365 Administration
+* Networking and TCP/IP
+* Fortinet and Network Security
+* Active Directory
+* DNS and DHCP
+* Switching and Wireless Networks
+* Hyper-V and Virtualization
+* Hardware and Software Troubleshooting
+* Backup and System Recovery
+* End-User Technical Support
+
+## Professional Development
+
+Currently expanding my knowledge in networking and cybersecurity, with a focus on CCNA and CompTIA Security+.
+
+## Background
+
+B.Sc. in Computer Science with previous experience and projects involving Python, artificial intelligence, robotics, and web development.
+
+I use this GitHub profile to document technical projects, labs, scripts, and practical work related to IT infrastructure, networking, systems administration, and cybersecurity.
